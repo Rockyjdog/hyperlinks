@@ -3,4 +3,4 @@ https://google.com/ \
 https://remotedesktop.google.com/access/ \
 https://instagram.com/ \
 https://youtube.com/ \
-https://https://rocketgoal.io/
+https://rocketgoal.io/
